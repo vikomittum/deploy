@@ -78,6 +78,7 @@ Is Ansistrano ready to be used? Here are some companies currently using it:
 * [Kidfund](http://link.kidfund.us/github "Kidfund")
 * [Lumao SAS](https://lumao.eu)
 * [MEDIA.figaro](http://media.figaro.fr)
+* [MITTUM](https://mittum.com/)
 * [Moss](https://moss.sh)
 * [Nice&Crazy](http://www.niceandcrazy.com)
 * [Nodo Ámbar](http://www.nodoambar.com/)
